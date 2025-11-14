@@ -2,16 +2,18 @@
 Data Visualizations
 
 TITANIC DATASET
-1.Obtain the bar chart of passengers vs. gender.
-2.Obtain the survival count of passengers by gender.
-3.Obtain the survival rate by passenger class.
-4.Obtain the age distribution of passengers.
-5.Obtain the average fare by class.
-6.Obtain the scatter plot of fare vs. age.
-7.Obtain the passenger count by embarkation port.
-8.Obtain the survival heatmap by gender and class.
-9.Obtain the box plot of age vs. survival.
-10.Draw a pie chart representing a dimension and a measure.
+
+1. Obtain the bar chart of passengers vs. gender.
+2. Obtain the survival count of passengers by gender.
+3. Obtain the survival rate by passenger class.
+4. Obtain the age distribution of passengers.
+5. Obtain the average fare by class.
+6. Obtain the scatter plot of fare vs. age.
+7. Obtain the passenger count by embarkation port.
+8. Obtain the survival heatmap by gender and class.
+9. Obtain the box plot of age vs. survival.
+10. Draw a pie chart representing a dimension and a measure.
+
 
 COFFEE CHAIN DATASET
 
